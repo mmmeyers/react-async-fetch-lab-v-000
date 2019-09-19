@@ -7,7 +7,11 @@ class App extends Component {
     peopleInSpace: []
   }
   
-  render()
+  render() {
+    return (
+      
+      )
+  }
   
   
 }
