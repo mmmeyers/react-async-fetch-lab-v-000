@@ -7,7 +7,7 @@ class App extends Component {
     peopleInSpace: []
   }
   
-  
+  render()
   
   
 }
