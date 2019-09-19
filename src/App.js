@@ -20,7 +20,7 @@ class App extends Component {
     .then(response => response.json())
     .then(data =>  {
       this.setState({
-        peopleInSpace
+        peopleInSpace: data.people
       })
     })
   }
