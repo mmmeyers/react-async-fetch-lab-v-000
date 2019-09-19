@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        {this.state.peopleInSpace
+        {this.state.peopleInSpace.map()
       </div>
       )
   }
