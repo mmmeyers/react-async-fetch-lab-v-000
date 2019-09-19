@@ -3,7 +3,9 @@ import ReactDOM from 'react-dom';
 
 class App extends Component {
   
-  state = 
+  state = {
+    peopleInSpace = []
+  }
   
   
 }
